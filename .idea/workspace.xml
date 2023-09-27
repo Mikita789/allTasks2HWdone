@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa719424-a581-4838-b949-e034f8aa2ffe" name="Changes" comment="" />
+    <list default="true" id="fa719424-a581-4838-b949-e034f8aa2ffe" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/BinaryTree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/HW4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/HW6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/L5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/Toy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/ToyStore/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/hw2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/oop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/s6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/test/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/test/src/BaseObstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/test/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/test/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/test/src/MilkEat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/test/src/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/test/src/Sprint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaOOP/test/src/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/0e7OYUz_eVY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/HW2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/HW2.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/HW4.1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/HW4.2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/HW5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/HW6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/HW7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/HW8.rtfd/TXT.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/HW8.rtfd/Снимок экрана 2023-07-18 в 16.30.14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/HW8.rtfd/Снимок экрана 2023-07-18 в 16.30.34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/HW8.rtfd/Снимок экрана 2023-07-18 в 16.30.51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/HW8.rtfd/Снимок экрана 2023-07-18 в 16.31.07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/HW8.rtfd/Снимок экрана 2023-07-18 в 16.31.19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/HW8pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UBUNTU/Архив.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../домашки/Java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../домашки/diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../домашки/git_l4/OhMyGit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../домашки/resultHW" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../материалы/Семинар 1. Введение в программирование. Создаём и записываем свои первые алгоритмы [для преподавателей].pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,13 +68,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "/Users/nikitapopov/Downloads/учеба/GeekBR/javaEx/allTasks2HW/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/nikitapopov/Downloads/учеба/GeekBR/javaEx/allTasks2HW/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,15 +86,8 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
